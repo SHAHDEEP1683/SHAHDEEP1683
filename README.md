@@ -65,6 +65,6 @@ I enjoy building backend logic and exploring distributed systems & spring boot a
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:https://deeportfolio16.netlify.app/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sd365601@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/deep-shah-576756199"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
