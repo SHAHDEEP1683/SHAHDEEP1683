@@ -3,21 +3,21 @@
 
 ---
 
+💬 Ask me about  
+Java, Spring Boot, REST APIs, MySQL, Microservices, Docker
+
 🔭 I’m currently working on **real-world microservice-based architectures using Spring Boot**
 
 🌱 I’m currently learning  
-`Spring Cloud`, `Kafka`, `MongoDB`, `Liquibase`, `JasperReports`, `MapStruct`, `OpenAPI`
+`React.js`, `AWS`, `CI/CD`, `Spring AI`
 
 👨‍💻 All of my projects are available at: [https://github.com/SHAHDEEP1683/SHAHDEEP1683/e]([https://github.com/deepshah](https://github.com/SHAHDEEP1683/SHAHDEEP1683/e))
-
-💬 Ask me about  
-Java, Spring Boot, REST APIs, MySQL, Microservices, Docker
 
 📫 How to reach me:  
 **sd365601@gmail.com**
 
 📄 Know about my experiences:  
-[*Available upon request or LinkedIn (if any)*](https://www.linkedin.com/in/deep-shah-576756199/)
+[*Linkedin*](https://www.linkedin.com/in/deep-shah-576756199/)
 
 ⚡ Fun fact:  
 I enjoy building backend logic and exploring distributed systems & orchestration patterns.
