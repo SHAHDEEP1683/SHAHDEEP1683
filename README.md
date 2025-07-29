@@ -4,7 +4,7 @@
 ---
 
 💬 Ask me about  
-Java, Spring Boot, REST APIs, MySQL, Microservices, Docker
+Java, Spring Boot, REST APIs, SQL, Microservices
 
 🔭 I’m currently working on **real-world microservice-based architectures using Spring Boot**
 
