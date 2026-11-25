@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 👋, I'm Deep Shah</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | Microservices | Hibernate/JPA | SQL/ON-SQL</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot | Microservices  | AWS | Hibernate/JPA </h3>
 
 ---
 
