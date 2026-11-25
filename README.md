@@ -9,7 +9,7 @@ Java, Spring Boot, REST APIs, SQL, Microservices
 🔭 I’m currently working on **real-world microservice-based architectures using Spring Boot**
 
 🌱 I’m currently learning  
-`React.js`, `AWS`, `CI/CD`, `Spring AI`
+`React.js`, `Spring AI`
 
 👨‍💻 All of my projects are available at: [https://github.com/SHAHDEEP1683/SHAHDEEP1683/e]([https://github.com/deepshah](https://github.com/SHAHDEEP1683/SHAHDEEP1683))
 
